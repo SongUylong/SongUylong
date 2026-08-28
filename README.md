@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Self-Hosted Bespoke Animated Hero Banner -->
-<img src="https://raw.githubusercontent.com/SongUylong/SongUylong/main/assets/hero.svg?v=2" width="100%" alt="Song Uylong - Full-Stack Engineer & AI Systems Researcher" />
+<img src="https://raw.githubusercontent.com/SongUylong/SongUylong/main/assets/hero.svg?v=3" width="100%" alt="Song Uylong - Full-Stack Engineer & AI Systems Researcher" />
 
 <br/><br/>
 
-<!-- Modern Pill Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/uylong-song-9683aa2aa/)
-[![Email](https://img.shields.io/badge/Email-090d16?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:uylongsong@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SongUylong)
+<!-- Modern Badges with Verified Crisp Logos -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b1e36?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uylong-song-9683aa2aa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SongUylong)
 
 <br/>
 
@@ -91,7 +91,7 @@
 - High-concurrency seat reservation engine.
 - Complete metrics and tracing with Prometheus & Grafana.
 
-[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/dropzone)
+[![GitHub Repo](https://img.shields.io/badge/Repository-0b1e36?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/dropzone)
 
 </td>
 <td valign="top" width="50%">
@@ -105,7 +105,7 @@
 - Tech job & scholarship opportunity aggregator.
 - Backed by formal university MIS research specifications.
 
-[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/techcompass)
+[![GitHub Repo](https://img.shields.io/badge/Repository-0b1e36?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/techcompass)
 
 </td>
 </tr>
@@ -121,7 +121,7 @@
 - Secure JWT Bearer authentication with ASP.NET Core Identity.
 - User portfolio tracking and community stock commentary.
 
-[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/FinShark)
+[![GitHub Repo](https://img.shields.io/badge/Repository-0b1e36?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/FinShark)
 
 </td>
 <td valign="top" width="50%">
@@ -135,7 +135,7 @@
 - Multi-resource calendar and studio equipment booking.
 - Automated client milestones and billing lifecycle.
 
-[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/OriginsStudioSystem)
+[![GitHub Repo](https://img.shields.io/badge/Repository-0b1e36?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/OriginsStudioSystem)
 
 </td>
 </tr>
@@ -174,9 +174,10 @@ I am always interested in discussing distributed systems, intelligent RAG archit
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-uylongsong%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
+[![Email](https://img.shields.io/badge/Email-uylongsong%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Uylong%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uylong-song-9683aa2aa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.uylonglab.xyz-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.uylonglab.xyz-0b1e36?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-SongUylong-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SongUylong)
 
 <br/>
 
