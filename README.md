@@ -7,8 +7,7 @@
 
 <!-- Modern Pill Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
-[![Playground](https://img.shields.io/badge/Playground-090d16?style=for-the-badge&logo=caddy&logoColor=818cf8)](https://playground.uylonglab.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/song-uylong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/uylong-song-9683aa2aa/)
 [![Email](https://img.shields.io/badge/Email-090d16?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:uylongsong@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SongUylong)
 
@@ -170,7 +169,7 @@ I am always interested in discussing distributed systems, intelligent RAG archit
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-uylongsong%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Song_Uylong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-uylong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uylong%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uylong-song-9683aa2aa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.uylonglab.xyz-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
 
 <br/>
