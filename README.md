@@ -30,8 +30,6 @@
   ↳ *[sala.co](https://sala.co)*
 - **Backend & RAG Engineer**  
   ↳ *Paragon International University*
-- **Research Aspirations:**  
-  ↳ *Master's in Applied AI & Systems*
 
 </td>
 <td width="33.3%" valign="top">
