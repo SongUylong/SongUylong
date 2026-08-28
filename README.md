@@ -21,32 +21,38 @@
 
 ## ⚡ Executive Summary
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td width="33.3%" valign="top">
 
-### 💡 What I'm Building & Researching
-
-- 🤖 **Agentic AI & Knowledge Retrieval:** Engineering end-to-end RAG pipelines, semantic vector search, and autonomous multi-agent toolchains.
-- ⚡ **High-Concurrency Backends:** Building distributed, event-driven microservices with **Java (Spring Boot 3)**, **.NET 8**, **Laravel**, and **Kafka**.
-- 🌐 **Modern Frontend Applications:** Full-stack development with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS**.
-- 🎯 **Academic Research:** 4th-year MIS at **Paragon International University**, aiming for Master's research in Applied AI & Distributed Systems.
+### 🏢 Industry & Research
+- **Full-Stack & AI Workflow Researcher**  
+  ↳ *[sala.co](https://sala.co)*
+- **Backend & RAG Engineer**  
+  ↳ *Paragon International University*
+- **Research Aspirations:**  
+  ↳ *Master's in Applied AI & Systems*
 
 </td>
-<td valign="top" width="40%">
+<td width="33.3%" valign="top">
 
-### 📌 Quick Identity
+### 🤖 Core Technical Focus
+- **Agentic AI & Retrieval:**  
+  ↳ *Autonomous agents, RAG, vector search*
+- **Distributed Backends:**  
+  ↳ *Java (Spring 3), .NET 8, Laravel, Kafka*
+- **Modern Full-Stack:**  
+  ↳ *Next.js 15, TypeScript, Tailwind CSS*
 
-```yaml
-Name:        Song Uylong
-Current:
-  - Full-Stack & AI @ sala.co
-  - Backend & RAG @ Paragon
-Education:   B.S. in MIS (Class '26)
-Location:    Phnom Penh, Cambodia 🇰🇭
-Target:      Systems & AI Master's
-Contact:     uylongsong@gmail.com
-```
+</td>
+<td width="33.3%" valign="top">
+
+### 📍 Quick Specs
+- **Degree:** B.S. in MIS (Class '26)
+- **Institution:** Paragon Int'l University
+- **Location:** Phnom Penh, Cambodia 🇰🇭
+- **Status:** `Active Research & Dev`
+- **Email:** `uylongsong@gmail.com`
 
 </td>
 </tr>
