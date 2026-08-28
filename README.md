@@ -9,14 +9,14 @@
     ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝      ╚═════╝    ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-**`SYSTEM_ID: songuylong.sys` • `ARCH: x86_64 / aarch64` • `ENV: Production` • `LOCATION: Phnom Penh, KH`**
+**`SYSTEM_ID: songuylong.sys` • `ROLE: Full-Stack Engineer & AI Systems` • `LOCATION: Phnom Penh, KH`**
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.uylonglab.xyz-1b4d89?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.uylonglab.xyz)
 [![Playground](https://img.shields.io/badge/PLAYGROUND-playground.uylonglab.xyz-002b5b?style=for-the-badge&logo=caddy&logoColor=white)](https://playground.uylonglab.xyz)
 [![LinkedIn](https://img.shields.io/badge/CONNECT-Song_Uylong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-uylong)
-[![Email](https://img.shields.io/badge/DISPATCH-contact@uylonglab.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uylonglab.xyz)
+[![Email](https://img.shields.io/badge/DISPATCH-uylongsong@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
 
 </div>
 
@@ -29,7 +29,7 @@
 [AFFILIATION]  Full-Stack Engineer & AI Workflow Researcher  @ sala.co
 [RESEARCH]     Backend Developer & RAG Engineer              @ Paragon International University
 [ACADEMICS]    B.S. in Management Information Systems (MIS)  @ Year 4 (Class of 2026)
-[SPECIALTY]    Distributed Microservices • RAG Architectures • Agentic Orchestration • Declarative NixOS
+[SPECIALTY]    Distributed Microservices • RAG Architectures • Agentic AI Workflows • Scalable Backends
 [STATUS]       Active Engineering & Systems Research
 ```
 
@@ -40,7 +40,7 @@
 ```
  ┌────────────────────────────────────────────────────────────────────────────────────────┐
  │  LAYER 4: AI WORKFLOWS & KNOWLEDGE RETRIEVAL                                           │
- │  • RAG Pipelines       • LangChain / LlamaIndex    • Local LLM Serving (Ollama / vLLM) │
+ │  • RAG Pipelines       • LangChain / LlamaIndex    • LLM Serving & Optimization        │
  │  • Vector Embeddings   • Agent Toolchains          • Python (FastAPI / PyTorch)        │
  ├────────────────────────────────────────────────────────────────────────────────────────┤
  │  LAYER 3: DISTRIBUTED BACKEND & MICROSERVICES                                          │
@@ -51,9 +51,9 @@
  │  • Apache Kafka (Event Streams)                    • RabbitMQ (Message Brokering)      │
  │  • Redis & Redisson (Distributed Locks & Cache)    • PostgreSQL / MySQL / SQL Server   │
  ├────────────────────────────────────────────────────────────────────────────────────────┤
- │  LAYER 1: INFRASTRUCTURE & SYSTEMS                                                     │
- │  • NixOS (Declarative Flakes)                      • Docker & Docker Compose           │
- │  • Kubernetes (K8s Deployments & Services)         • Linux Kernel & Caddy Reverse Proxy│
+ │  LAYER 1: CLOUD INFRASTRUCTURE & DEVOPS                                                │
+ │  • Docker & Containerization                       • Kubernetes (Deployments & Config) │
+ │  • Linux Server Environments                       • Reverse Proxying & CI/CD Pipelines│
  └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -71,15 +71,15 @@
 - **Core:** PHP 8.2 • Laravel 11 • MySQL • Tailwind CSS
 - **Engineering Highlights:** Interactive skill-gap diagnostic quizzes, automated learning roadmaps, backed by university MIS research documentation.
 
-#### ❄️ [Declarative NixOS & Home Manager Systems](https://github.com/SongUylong/dotfiles)
-> *Fully reproducible, flake-driven declarative workstation configuration across desktop and laptop.*
-- **Core:** Nix Flakes • NixOS • Wayland / Hyprland • Stylix • Zsh / Tmux / Neovim
-- **Engineering Highlights:** Integrated local LLM daemon (`ollama.nix`), modular host architecture, and zero-drift environment management.
-
 #### 🦈 [FinShark — Financial Valuation & Screener API](https://github.com/SongUylong/FinShark)
 > *Financial data indexing platform with live market ratios, discussions, and portfolio tracking.*
 - **Core:** .NET 8 • C# • ASP.NET Core Web API • Entity Framework Core • React • SQL Server
 - **Engineering Highlights:** Financial Modeling Prep API ingestion, JWT Bearer authentication, and relational data modeling.
+
+#### 🎬 [OriginsStudioSystem — Studio Operations & Resource Platform](https://github.com/SongUylong/OriginsStudioSystem)
+> *Enterprise studio management system handling booking workflows, asset scheduling, and access control.*
+- **Core:** Next.js (App Router) • TypeScript • NextAuth.js • Prisma ORM • PostgreSQL
+- **Engineering Highlights:** Role-based access control (RBAC), multi-resource calendar scheduling, and automated invoice lifecycle management.
 
 ---
 
@@ -92,7 +92,7 @@ $ curl -s https://uylonglab.xyz/api/research | jq .
     "Autonomous Multi-Agent Coordination & Context Routing",
     "Low-Latency RAG Ingestion & Hybrid Search / Vector Embeddings",
     "High-Throughput Distributed Locking & Consensus Mechanisms",
-    "Declarative Linux Environments & Containerized Local Workstations"
+    "Scalable Microservices Architectures & Event-Driven Patterns"
   ],
   "target": "Master's Degree Research Opportunities in Systems & Artificial Intelligence"
 }
@@ -108,7 +108,7 @@ $ curl -s https://uylonglab.xyz/api/research | jq .
 
 [![Live Portfolio](https://img.shields.io/badge/PORTFOLIO-1b4d89?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio.uylonglab.xyz)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-uylong)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@uylonglab.xyz)
+[![Email](https://img.shields.io/badge/EMAIL-uylongsong@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
 
 <sub>© Song Uylong • Engineering Resilient Systems & Intelligent Workflows</sub>
 
