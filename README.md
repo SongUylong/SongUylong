@@ -2,7 +2,7 @@
 
 <!-- Hero Banner (SVG / Dynamic Capsule) -->
 <a href="https://portfolio.uylonglab.xyz">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4d89,100:002b5b&height=220&section=header&text=Song%20Uylong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cloud%20Architect&descFontSize=18&descAlignY=62&descColor=dae4f3" width="100%" alt="Song Uylong - Full-Stack Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4d89,100:002b5b&height=220&section=header&text=Song%20Uylong&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Workflow%20Researcher%20%7C%20RAG%20%26%20Systems&descFontSize=16&descAlignY=62&descColor=dae4f3" width="100%" alt="Song Uylong" />
 </a>
 
 <!-- Quick Connect & Profile Status Badges -->
@@ -10,9 +10,8 @@
 [![Playground](https://img.shields.io/badge/Playground-002b5b?style=for-the-badge&logo=vercel&logoColor=white)](https://playground.uylonglab.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-uylong)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uylonglab.xyz)
-![Profile Views](https://komarev.com/ghpvc/?username=SongUylong&color=1b4d89&style=for-the-badge&label=Profile+Views)
 
-> *Building resilient microservices, declarative systems, and intelligent agent workflows.*
+> *Building resilient microservices, agentic AI workflows, and intelligent RAG systems.*
 
 </div>
 
@@ -24,25 +23,27 @@
 <tr>
 <td valign="top" width="58%">
 
-I am a **Full-Stack & Systems Developer** and 4th-year Management Information Systems (MIS) undergraduate at **Paragon International University** in Phnom Penh, Cambodia. 
+I am a **Full-Stack Engineer** and **AI Workflow Researcher** at **sala.co**, as well as a **Backend Developer & RAG Engineer** at **Paragon International University**.
 
-Experienced as a **Tech Lead** and full-stack engineer across UN-affiliated youth initiatives (OSG Youth Alliance, GSLDC), building scalable digital platforms and distributed architectures.
+Currently pursuing my 4th year in Management Information Systems (MIS), specializing in distributed architectures, AI agent orchestration, and knowledge retrieval pipelines.
 
-- 🔭 **Specialized in:** Distributed Microservices, Event-Driven Architecture, High-Concurrency Backends.
-- ⚙️ **Systems & DevOps:** Declarative NixOS infrastructure, Docker, Kubernetes, Linux kernel & performance tuning.
-- 🤖 **Exploring:** Autonomous AI Agent systems, Local LLM inference, and Scalable Cloud Pipelines.
-- 🎯 **Looking for:** Master's degree research opportunities & Software Engineering roles.
+- 🔭 **Current Roles:** Full-Stack Engineer & AI Workflow Researcher @ **sala.co** | Backend & RAG Engineer @ **Paragon International University**.
+- 🤖 **AI & Workflows:** Agentic automation workflows, Retrieval-Augmented Generation (RAG), Local LLM deployment & Vector search.
+- ⚙️ **Backend & Systems:** Event-driven microservices (Java/Spring, .NET, Laravel), high-concurrency systems, and declarative NixOS setups.
+- 🎯 **Aspirations:** Master's degree research in Systems & AI, and scalable open-source tooling.
 
 </td>
 <td valign="top" width="42%">
 
 ```yaml
 name:        Song Uylong
-title:       Full-Stack & Systems Engineer
-degree:      B.S. in MIS @ Paragon University
+roles:       
+  - Full-Stack & AI Researcher @ sala.co
+  - Backend & RAG Engineer @ Paragon
+education:   B.S. in MIS @ Paragon University
 location:    Phnom Penh, Cambodia
-core_stack:  Java/Spring, .NET, TS/Next.js, NixOS
-interests:   Microservices, AI Agents, Cloud Infra
+core_stack:  Java/Spring, .NET, TS/Next.js, Python
+ai_stack:    RAG, LangChain, Vector DBs, Ollama
 status:      Building & Researching
 ```
 
@@ -58,11 +59,11 @@ status:      Building & Researching
 
 | Domain | Technologies & Frameworks |
 |:---|:---|
-| **Backend & Microservices** | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **AI, RAG & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Backend & Microservices** | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 | **Frontend & Web** | ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **Messaging & Storage** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Messaging & Databases** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps & Systems** | ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Caddy](https://img.shields.io/badge/Caddy-22B573?style=flat-square&logo=caddy&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
-| **Low-Level & Embedded** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7D00?style=flat-square&logo=platformio&logoColor=white) |
 
 </div>
 
@@ -96,7 +97,7 @@ status:      Building & Researching
 `PHP 8.2` `Laravel 11` `MySQL` `TailwindCSS`
 
 - Dynamic skill assessments & tailored industry learning roadmaps.
-- Junior job and scholarship opportunity aggregation.
+- Junior job and opportunity aggregation.
 - Backed by formal academic research and MIS Junior Project specifications.
 
 [![Repository](https://img.shields.io/badge/View_Code-1b4d89?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/techcompass)
@@ -139,17 +140,12 @@ status:      Building & Researching
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SongUylong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1b4d89&icon_color=1b4d89&text_color=2B2B2B&bg_color=f0f4f9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SongUylong&hide_border=true&background=f0f4f9&stroke=dae4f3&ring=1b4d89&fire=1b4d89&currStreakLabel=1b4d89&sideLabels=2B2B2B&currStreakNum=1b4d89&sideNums=2B2B2B&dates=718096" alt="GitHub Streak"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongUylong&layout=compact&hide_border=true&langs_count=8&title_color=1b4d89&text_color=2B2B2B&bg_color=f0f4f9" alt="Top Languages"/>
-
-<!-- Contribution Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SongUylong&bg_color=f0f4f9&color=2B2B2B&line=1b4d89&point=1b4d89&area_color=1b4d89&area=true&hide_border=true" alt="Activity Graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SongUylong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=nord&title_color=1b4d89&icon_color=1b4d89&text_color=2B2B2B&bg_color=f0f4f9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongUylong&layout=compact&hide_border=true&langs_count=8&theme=nord&title_color=1b4d89&text_color=2B2B2B&bg_color=f0f4f9" alt="Top Languages" />
 
 </div>
 
@@ -159,12 +155,12 @@ status:      Building & Researching
 
 <div align="center">
 
-Always excited to collaborate on open-source projects, high-scale architectures, and research initiatives!
+Always excited to collaborate on open-source projects, high-scale architectures, and AI workflow research!
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-1b4d89?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.uylonglab.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-uylong)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@uylonglab.xyz)
 
-<sub>© Song Uylong • Crafted with passion for scalable code & elegant systems.</sub>
+<sub>© Song Uylong • Crafted with passion for scalable systems & AI architectures.</sub>
 
 </div>
