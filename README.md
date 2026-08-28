@@ -1,157 +1,168 @@
 <div align="center">
 
-<!-- Modern Minimalist Bento Header -->
-<a href="https://portfolio.uylonglab.xyz">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b192c,50:1e3e62,100:000000&height=180&section=header&text=SONG%20UYLONG&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%80%94%20AI%20Workflow%20Researcher%20%E2%80%A2%20RAG%20%26%20Distributed%20Systems%20Engineer%20%E2%80%94&descFontSize=15&descAlignY=68&descColor=00adb5" width="100%" alt="Song Uylong Banner" />
-</a>
-
-<br/>
-
-<!-- Fast Navigation Chips -->
-<a href="https://portfolio.uylonglab.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-portfolio.uylonglab.xyz-00adb5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://playground.uylonglab.xyz"><img src="https://img.shields.io/badge/PLAYGROUND-playground.uylonglab.xyz-1e3e62?style=for-the-badge&logo=caddy&logoColor=white"/></a>
-<a href="https://linkedin.com/in/song-uylong"><img src="https://img.shields.io/badge/LINKEDIN-Song_Uylong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:uylongsong@gmail.com"><img src="https://img.shields.io/badge/EMAIL-uylongsong@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- Self-Hosted Bespoke Animated Hero Banner -->
+<img src="assets/hero.svg" width="100%" alt="Song Uylong - Full-Stack Engineer & AI Systems Researcher" />
 
 <br/><br/>
 
-```text
-⚙️ [SYS: ONLINE]  •  📍 Phnom Penh, Cambodia  •  🎓 B.S. in MIS @ Paragon University (Class '26)
-```
-
-</div>
-
----
-
-### ⚡ Current Deployments & Research Focus
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  🏢 INDUSTRY APPOINTMENT                                                                     │
-│  Full-Stack Engineer & AI Workflow Researcher  @ sala.co                                     │
-│  ↳ Orchestrating autonomous agent toolchains, knowledge extraction, and intelligent workflows │
-├──────────────────────────────────────────────────────────────────────────────────────────────┤
-│  🎓 ACADEMIC LAB                                                                             │
-│  Backend Developer & RAG Engineer              @ Paragon International University            │
-│  ↳ Designing high-accuracy RAG retrieval pipelines, vector indexers, and microservice backends│
-├──────────────────────────────────────────────────────────────────────────────────────────────┤
-│  🎯 RESEARCH HORIZON                                                                         │
-│  Master's Degree Candidate                     @ Systems Architecture & Applied AI           │
-│  ↳ Focusing on low-latency RAG architectures, multi-agent coordination, and event concurrency│
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🛠️ Visual Tech Arsenal
-
-<div align="center">
-
-#### **Artificial Intelligence, RAG & Data Systems**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,postgres,redis&perline=12" />
-  </a>
-</p>
-
-#### **Distributed Backends & Microservices**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,php,laravel,nodejs&perline=12" />
-  </a>
-</p>
-
-#### **Frontend & UI Engineering**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vue,html,css&perline=12" />
-  </a>
-</p>
-
-#### **Cloud, DevOps & Systems**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,linux,caddy,cloudflare,git,postman,neovim&perline=12" />
-  </a>
-</p>
-
-</div>
-
----
-
-### 🏛️ Engineering Architectures & Repositories
-
-```
-  ┌────────────────────────────────────────────────────────────────────────────────────────┐
-  │ 🎟️ DROPZONE                                   [ Distributed Event Ticketing Platform ] │
-  │ ↳ Java 21 • Spring Boot 3 • Spring Cloud Gateway • Apache Kafka • Redis • Keycloak     │
-  │ • Distributed seat reservation engine engineered for massive flash-sale concurrency.   │
-  │ • SAGA pattern transactions, Redisson locks, and end-to-end distributed tracing.       │
-  │ 🔗 https://github.com/SongUylong/dropzone                                              │
-  └────────────────────────────────────────────────────────────────────────────────────────┘
-```
-```
-  ┌────────────────────────────────────────────────────────────────────────────────────────┐
-  │ 🧭 TECHCOMPASS                                  [ Career Intelligence & Roadmap Engine ] │
-  │ ↳ PHP 8.2 • Laravel 11 • MySQL • Tailwind CSS • Academic MIS Junior Project           │
-  │ • Dynamic skill gap diagnostic engine mapping university competencies to market roles. │
-  │ • Automated career roadmap generator backed by formal empirical research.              │
-  │ 🔗 https://github.com/SongUylong/techcompass                                           │
-  └────────────────────────────────────────────────────────────────────────────────────────┘
-```
-```
-  ┌────────────────────────────────────────────────────────────────────────────────────────┐
-  │ 🦈 FINSHARK                                     [ Financial Screener & Valuation API ] │
-  │ ↳ .NET 8 • C# • ASP.NET Core Web API • Entity Framework Core • React • SQL Server      │
-  │ • Stock screener and financial metrics pipeline powered by FMP financial data streams. │
-  │ • Identity-managed JWT Bearer security layer and interactive investor discussion hubs. │
-  │ 🔗 https://github.com/SongUylong/FinShark                                              │
-  └────────────────────────────────────────────────────────────────────────────────────────┘
-```
-```
-  ┌────────────────────────────────────────────────────────────────────────────────────────┐
-  │ 🎬 ORIGINS STUDIO SYSTEM                       [ Enterprise Studio Resource Platform ] │
-  │ ↳ Next.js 15 (App Router) • TypeScript • NextAuth.js • Prisma ORM • PostgreSQL         │
-  │ • Enterprise workflow manager with multi-resource calendar and equipment scheduling.   │
-  │ • Granular RBAC access controls, client milestone tracking, and invoice lifecycle ops. │
-  │ 🔗 https://github.com/SongUylong/OriginsStudioSystem                                   │
-  └────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 📈 Contribution & Code Insights
-
-<div align="center">
-
-<!-- Premium Dark/Cyan Theme Stats Card -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SongUylong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=00adb5&icon_color=00adb5&text_color=dae4f3&bg_color=0b192c" alt="Song Uylong GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongUylong&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=00adb5&text_color=dae4f3&bg_color=0b192c" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Collaborate
-
-I'm always eager to discuss distributed systems, RAG retrieval architectures, and AI workflow engineering.
+<!-- Modern Pill Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
+[![Playground](https://img.shields.io/badge/Playground-090d16?style=for-the-badge&logo=caddy&logoColor=818cf8)](https://playground.uylonglab.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/song-uylong)
+[![Email](https://img.shields.io/badge/Email-090d16?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:uylongsong@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SongUylong)
 
 <br/>
 
-<a href="mailto:uylongsong@gmail.com">
-  <img src="https://img.shields.io/badge/Direct%20Email-uylongsong%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/song-uylong">
-  <img src="https://img.shields.io/badge/LinkedIn-Song%20Uylong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://portfolio.uylonglab.xyz">
-  <img src="https://img.shields.io/badge/Portfolio-portfolio.uylonglab.xyz-00adb5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+> *“Crafting scalable microservice backends, intelligent RAG architectures, and agentic AI pipelines.”*
 
-<br/><br/>
+</div>
 
-<sub>© 2026 **Song Uylong** • Built with passion for high-performance systems and intelligent workflows.</sub>
+---
+
+## ⚡ Executive Summary
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 💡 What I'm Building & Researching
+
+- 🤖 **Agentic AI & Knowledge Retrieval:** Engineering end-to-end RAG pipelines, semantic vector search, and autonomous multi-agent toolchains.
+- ⚡ **High-Concurrency Backends:** Building distributed, event-driven microservices with **Java (Spring Boot 3)**, **.NET 8**, **Laravel**, and **Kafka**.
+- 🌐 **Modern Frontend Applications:** Full-stack development with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS**.
+- 🎯 **Academic Research:** 4th-year MIS at **Paragon International University**, aiming for Master's research in Applied AI & Distributed Systems.
+
+</td>
+<td valign="top" width="40%">
+
+### 📌 Quick Identity
+
+```yaml
+Name:        Song Uylong
+Current:
+  - Full-Stack & AI @ sala.co
+  - Backend & RAG @ Paragon
+Education:   B.S. in MIS (Class '26)
+Location:    Phnom Penh, Cambodia 🇰🇭
+Target:      Systems & AI Master's
+Contact:     uylongsong@gmail.com
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Engineering Arsenal
+
+<div align="center">
+
+| Domain | Visual Stack |
+| :--- | :--- |
+| **AI, RAG & Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Backend & Microservices** | ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Frontend & Web** | ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **Messaging & Databases** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **Cloud, DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Caddy](https://img.shields.io/badge/Caddy-22B573?style=flat-square&logo=caddy&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 Flagship Engineering Projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎟️ Dropzone — Concurrency Ticketing
+> *Distributed microservices event ticketing platform with zero double-booking.*
+
+`Java 21` `Spring Boot 3` `Kafka` `Redis` `Keycloak`
+
+- SAGA pattern distributed transactions & Redisson distributed locking.
+- High-concurrency seat reservation engine.
+- Complete metrics and tracing with Prometheus & Grafana.
+
+[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/dropzone)
+
+</td>
+<td valign="top" width="50%">
+
+### 🧭 TechCompass — Career Roadmaps
+> *Career development platform mapping skill gaps to industry competencies.*
+
+`PHP 8.2` `Laravel 11` `MySQL` `TailwindCSS`
+
+- Dynamic skill assessment quizzes & tailored career paths.
+- Tech job & scholarship opportunity aggregator.
+- Backed by formal university MIS research specifications.
+
+[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/techcompass)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🦈 FinShark — Financial Valuation API
+> *Stock analysis platform with live ratios, sentiment, and portfolio management.*
+
+`.NET 8` `C#` `ASP.NET Core` `EF Core` `React`
+
+- Live stock search & metric streams via Financial Modeling Prep API.
+- Secure JWT Bearer authentication with ASP.NET Core Identity.
+- User portfolio tracking and community stock commentary.
+
+[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/FinShark)
+
+</td>
+<td valign="top" width="50%">
+
+### 🎬 Origins Studio Management System
+> *Enterprise studio scheduling, equipment tracking, and access management.*
+
+`Next.js 15` `TypeScript` `NextAuth` `Prisma` `PostgreSQL`
+
+- Role-based access control (RBAC) & production scheduling.
+- Multi-resource calendar and studio equipment booking.
+- Automated client milestones and billing lifecycle.
+
+[![GitHub Repo](https://img.shields.io/badge/Repository-090d16?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/OriginsStudioSystem)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SongUylong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=090d16" alt="Song Uylong Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongUylong&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&bg_color=090d16" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+I am always interested in discussing distributed systems, intelligent RAG architectures, and AI workflow research.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-uylongsong%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uylongsong@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Song_Uylong-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/song-uylong)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.uylonglab.xyz-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://portfolio.uylonglab.xyz)
+
+<br/>
+
+<sub>© Song Uylong • Phnom Penh, Cambodia</sub>
 
 </div>
