@@ -94,14 +94,14 @@
 </td>
 <td valign="top" width="50%">
 
-### 🧭 TechCompass — Career Roadmaps
-> *Career development platform mapping skill gaps to industry competencies.*
+### 🧭 TechCompass — AI RAG Career Guidance
+> *Intelligent career development engine powered by Neuron AI (PHP) and RAG.*
 
-`PHP 8.2` `Laravel 11` `MySQL` `TailwindCSS`
+`Neuron AI` `PHP 8.2` `Laravel 11` `RAG` `MySQL` `TailwindCSS`
 
-- Dynamic skill assessment quizzes & tailored career paths.
-- Tech job & scholarship opportunity aggregator.
-- Backed by formal university MIS research specifications.
+- Retrieval-Augmented Generation (RAG) mapping skill gaps to live competencies.
+- LLM-driven career roadmaps & personalized assessment evaluations.
+- Tech job & scholarship opportunity aggregator with semantic search.
 
 [![GitHub Repo](https://img.shields.io/badge/Repository-0b1e36?style=flat-square&logo=github&logoColor=white)](https://github.com/SongUylong/techcompass)
 
