@@ -138,12 +138,24 @@ Contact:     uylongsong@gmail.com
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Profile Summary
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SongUylong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=090d16" alt="Song Uylong Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongUylong&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&bg_color=090d16" alt="Top Languages" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SongUylong&theme=tokyonight" alt="GitHub Profile Details" />
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SongUylong&theme=tokyonight" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SongUylong&theme=tokyonight" alt="Top Languages by Repo" />
+</td>
+</tr>
+</table>
 
 </div>
 
