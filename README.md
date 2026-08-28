@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Self-Hosted Bespoke Animated Hero Banner -->
-<img src="assets/hero.svg" width="100%" alt="Song Uylong - Full-Stack Engineer & AI Systems Researcher" />
+<img src="https://raw.githubusercontent.com/SongUylong/SongUylong/main/assets/hero.svg?v=2" width="100%" alt="Song Uylong - Full-Stack Engineer & AI Systems Researcher" />
 
 <br/><br/>
 
